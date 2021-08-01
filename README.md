@@ -8,7 +8,7 @@ The site will be built upon a very basic structure which is simply a vertical ar
 
 ### The hero component
 
-This component is built using react architecture and the aim is to make it a dynamic component such that it takes a video/image , a title and a paragraph as props (parameters) and all you need to do is call it using JSX ex: '<HeroSection video= path url title= title string paragraph= paragraph string/>.'
+This component is built using react architecture and the aim is to make it a dynamic component such that it takes a video/image , a title and a paragraph as props (parameters) and all you need to do is call it using JSX and pass the url path to the video and the paragraph and title strings.
 
 #### video/image
 With some css styling this video/image prop will be put dynamically as the background of the hero component.
